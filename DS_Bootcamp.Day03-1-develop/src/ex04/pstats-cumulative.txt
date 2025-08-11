@@ -1,0 +1,13 @@
+         371832 function calls (369993 primitive calls) in 2.331 seconds
+
+   Ordered by: cumulative time
+   List reduced from 1393 to 5 due to restriction <5>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.004    0.004    2.320    2.320 /Users/mabellec/Desktop/projects/DS1_Boot/DS_Bootcamp.Day03-1/src/ex04/./financial_enhanced.py:11(get_html)
+        1    0.000    0.000    1.933    1.933 /Users/mabellec/Desktop/projects/DS1_Boot/DS_Bootcamp.Day03-1/src/ex02/mabellec/lib/python3.11/site-packages/httpx/_client.py:1036(get)
+        1    0.000    0.000    1.933    1.933 /Users/mabellec/Desktop/projects/DS1_Boot/DS_Bootcamp.Day03-1/src/ex02/mabellec/lib/python3.11/site-packages/httpx/_client.py:771(request)
+        1    0.000    0.000    1.932    1.932 /Users/mabellec/Desktop/projects/DS1_Boot/DS_Bootcamp.Day03-1/src/ex02/mabellec/lib/python3.11/site-packages/httpx/_client.py:879(send)
+      188    0.002    0.000    1.535    0.008 /Users/mabellec/Desktop/projects/DS1_Boot/DS_Bootcamp.Day03-1/src/ex02/mabellec/lib/python3.11/site-packages/httpcore/_sync/http11.py:209(_receive_event)
+
+
