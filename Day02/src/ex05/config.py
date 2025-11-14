@@ -5,5 +5,5 @@ report_template = """We have made {observations} observations from tossing a coi
 LOG_FILE = "analytics.log"
 LOG_FORMAT = "%(asctime)s %(message)s"
 
-TELEGRAM_CHAT_ID = "340199175"
-TELEGRAM_API_URL = "8087944996:AAEO_iAdAMwVP0Q1nV1urX5KQsN9ld8c6DE"
+TELEGRAM_CHAT_ID = "chat_id"
+TELEGRAM_API_URL = "token"
